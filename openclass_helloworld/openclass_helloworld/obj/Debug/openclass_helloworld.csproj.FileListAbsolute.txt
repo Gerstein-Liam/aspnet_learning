@@ -50,4 +50,3 @@ C:\Users\liamg\Documents\Visual Studio 2017\Projects\cours\openclass_helloworld\
 C:\Users\liamg\Documents\Visual Studio 2017\Projects\cours\openclass_helloworld\openclass_helloworld\bin\fr\System.Web.Mvc.resources.dll
 C:\Users\liamg\Documents\Visual Studio 2017\Projects\cours\openclass_helloworld\openclass_helloworld\obj\Debug\openclass_helloworld.dll
 C:\Users\liamg\Documents\Visual Studio 2017\Projects\cours\openclass_helloworld\openclass_helloworld\obj\Debug\openclass_helloworld.pdb
-C:\Users\liamg\Documents\Visual Studio 2017\Projects\cours\openclass_helloworld\openclass_helloworld\obj\Debug\openclass_helloworld.csprojResolveAssemblyReference.cache
